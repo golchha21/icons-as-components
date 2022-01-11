@@ -1,9 +1,9 @@
 IconsAsComponents for Laravel
 ==========
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/golchha21/icons-as-components.svg?style=flat-square)](https://packagist.org/packages/golchha21/icons-as-components)
-[![Total Downloads](https://poser.pugx.org/golchha21/icons-as-components/downloads)](https://packagist.org/packages/golchha21/icons-as-components)
-[![License](https://poser.pugx.org/golchha21/icons-as-components/license)](https://packagist.org/packages/golchha21/icons-as-components)
+[![Latest Stable Version](http://poser.pugx.org/golchha21/icons-as-components/v)](https://packagist.org/packages/golchha21/icons-as-components)
+[![Total Downloads](http://poser.pugx.org/golchha21/icons-as-components/downloads)](https://packagist.org/packages/golchha21/icons-as-components)
+[![License](http://poser.pugx.org/golchha21/icons-as-components/license)](https://packagist.org/packages/golchha21/icons-as-components)
 
 A package for using the svg icons as laravel blade components.
 

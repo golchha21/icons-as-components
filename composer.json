@@ -1,6 +1,6 @@
 {
     "name": "golchha21/icons-as-components",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A package for using the svg icons as laravel blade components.",
     "keywords": [
         "golchha21",
@@ -29,10 +29,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": "^7.3|^8.0",
-        "ext-json": "*",
-        "ext-fileinfo": "*",
-        "ext-curl": "*"
+        "php": "^7.3|^8.0"
     },
     "require-dev": {
         "laravel/framework": "^7.0|^8.0"
